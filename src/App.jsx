@@ -33,7 +33,7 @@ const storage = {
   }
 };
 
-
+window.storage = storage;  
 
 
   // Load data from storage with error handling
