@@ -1,10 +1,10 @@
 {
-  "name": "ParkGolf Tracker",
-  "short_name": "ParkGolf",
+  "name": "파크골프",
+  "short_name": "파크골프",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0f172a",
+  "theme_color": "#10b981",
   "icons": [
     {
       "src": "/icon-192.png",
